@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[2580],{62580:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/card-basic-person.png?41b14ef0e72c39feba35f4e22ea13d92"}}]);

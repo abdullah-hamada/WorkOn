@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[2499],{72499:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/gumroad.png?d21f32316b61452ecd5105f66445e805"}}]);

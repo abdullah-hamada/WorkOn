@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[9639],{69639:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/image-credit-card.png?1d4849a1814966a5910b6c1bf2ddfb05"}}]);

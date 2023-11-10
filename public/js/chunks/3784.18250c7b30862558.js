@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[3784],{43784:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/stripe-account.png?e637203737135a498da75c8d8373d75f"}}]);

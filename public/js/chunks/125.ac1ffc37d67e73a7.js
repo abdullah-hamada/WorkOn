@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[125],{50125:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/card-basic-brown-watch.jpg?3bf1dcd0e60842b9068356f19091e5ef"}}]);

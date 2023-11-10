@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[7571],{57571:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/logo.png?4f5a77cd3b04ae36b24b7fbd1f139034"}}]);

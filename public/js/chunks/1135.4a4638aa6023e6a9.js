@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[1135],{41135:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/card-basic-mobile.png?64ec9144a681418d77c25b22c60564ac"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[7620],{27620:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/american-bank.png?d2ee30a7d06c73895f867adc15c079af"}}]);

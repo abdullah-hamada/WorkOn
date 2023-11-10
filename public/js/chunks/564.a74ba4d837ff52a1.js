@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[564],{50564:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/pose-m-1.png?547d2e96e65471e3f8aa68001a550d59"}}]);

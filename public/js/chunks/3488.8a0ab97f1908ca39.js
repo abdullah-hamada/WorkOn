@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[3488],{33488:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/online-learning.png?2874780a038252572c0dbe691cc84fc6"}}]);

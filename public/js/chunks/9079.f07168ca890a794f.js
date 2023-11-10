@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[9079],{99079:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/card-basic-boat.png?4d88e45285e83a1ca69ce56259be0e59"}}]);

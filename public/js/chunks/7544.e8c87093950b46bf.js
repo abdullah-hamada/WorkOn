@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[7544],{77544:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/mask-light.png?77718bde08a293dba49a8d0e35b031f2"}}]);

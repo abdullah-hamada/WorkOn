@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[509],{10509:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/bank-account.png?cbaf86289d03a8105a6386330c5255b3"}}]);

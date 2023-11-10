@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[233],{233:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/triangle-dark.png?a618f2df09a3105ed765c6dc62028cf3"}}]);

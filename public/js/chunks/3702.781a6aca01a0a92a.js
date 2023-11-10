@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[3702],{53702:(e,a,t)=>{t.r(a),t.d(a,{default:()=>r});const r="/images/materio-laravel-pro-ts-banner.png?78b587ef76dece782feedb7dba3c398e"}}]);

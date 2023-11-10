@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[6960],{16960:(e,a,f)=>{f.r(a),f.d(a,{default:()=>t});const t="/images/clock.png?978ebdff83117c059e3a07efdf11ff2d"}}]);

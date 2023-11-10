@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[2132],{52132:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/hiring.png?5a9126d984efc166544fa561b2197606"}}]);

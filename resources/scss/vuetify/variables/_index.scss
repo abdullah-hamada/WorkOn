@@ -1,0 +1,18 @@
+@import './_colors';
+
+@import './_global';
+@import './_font';
+@import './_elevations';
+@import './_mixins';
+@import './_utilities';
+
+@import './_light';
+@import './_dark';
+
+.v-toolbar__content, .v-toolbar__extension {
+    align-items: center;
+    display: flex;
+    position: relative;
+    z-index: 0;
+    height: 40px;
+}

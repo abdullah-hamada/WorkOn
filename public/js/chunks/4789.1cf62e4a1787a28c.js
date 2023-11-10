@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[4789],{84789:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/amazon-web-services-logo.png?c5422bf0ff04a6d7bd634483347b6124"}}]);

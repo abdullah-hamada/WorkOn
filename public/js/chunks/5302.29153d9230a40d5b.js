@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[5302],{5302:(e,a,c)=>{c.r(a),c.d(a,{default:()=>t});const t="/images/bg-home2.png?cd2c440ccac7c3c3d25acad7a0882d31"}}]);

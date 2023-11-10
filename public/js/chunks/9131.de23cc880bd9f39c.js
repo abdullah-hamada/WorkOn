@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[9131],{59131:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/upgrade-banner-dark.png?f2e51e9a19aee007f9cedace5542d3e9"}}]);

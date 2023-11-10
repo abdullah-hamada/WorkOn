@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free=self.webpackChunkmaterio_vuetify_vuejs_laravel_admin_template_free||[]).push([[1039],{81039:(e,a,t)=>{t.r(a),t.d(a,{default:()=>_});const _="/images/hand-cup.png?e527eb1a21996b4865e6ab6af3567b6a"}}]);
